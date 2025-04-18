@@ -4,7 +4,7 @@
 
 <br>
 
-## 📊 My Stats:
+# 📊 My Stats:
 
   <a href="https://github.com/nxr-deen/github-readme-stats">
     <img alt="Noureddine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nxr-deen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
